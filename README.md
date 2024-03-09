@@ -1,1 +1,1 @@
-** Just a fun snake game! **
+ Just a fun snake game! 
