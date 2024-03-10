@@ -1,7 +1,7 @@
 
 
 
-<img src = "https://github.com/UladL/SnakeGameNEW/assets/151393410/9eddc146-6b5d-4d4a-83ca-c62ad8a80e45" height = 600 width = 400>
+<img src = "https://github.com/UladL/SnakeGameNEW/assets/151393410/9eddc146-6b5d-4d4a-83ca-c62ad8a80e45" height = 600 width = 600>
 
 #Snake Game
 [Game link](https://uladl.github.io/SnakeGameNEW/)
