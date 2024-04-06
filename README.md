@@ -3,7 +3,7 @@
 
 <img src = "https://github.com/UladL/SnakeGameNEW/assets/151393410/9eddc146-6b5d-4d4a-83ca-c62ad8a80e45" height = 600 width = 600>
 
-#Snake Game
+# Snake Game
 [Game link](https://uladl.github.io/SnakeGameNEW/)
 ## Description
 > All of this game code was made useing JS. A little bit of HTML was used for the webstite structure.
